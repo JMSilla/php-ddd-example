@@ -2,6 +2,8 @@
 
 declare(strict_types = 1);
 
+namespace CodelyTv\Mooc\Videos\Application\UpdateDescription;
+
 use CodelyTv\Shared\Domain\Bus\Command\Command;
 use CodelyTv\Shared\Domain\ValueObject\Uuid;
 
